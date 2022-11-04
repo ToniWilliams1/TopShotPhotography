@@ -15,4 +15,4 @@ The Zen Studio is a fully responsive and semantically structured web application
 
 ## Feedback:
 
-If you have any feedback, please reach out to us at toniwilliams@outlook.com
+If you have any feedback, please reach out to us at toniwilliams@outlook.com.
