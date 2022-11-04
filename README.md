@@ -7,15 +7,11 @@ Zen Studios is a full-stack web application Zen Studios LLC, a photography studi
 ![zen](https://user-images.githubusercontent.com/100317017/180869418-a29093f0-c45f-42d4-b44b-6029f02cb01f.jpg)
 
 ## Live Site:
-[View Here:](https://thezenstudio.netlify.app/)
+[View Here](https://thezenstudio.netlify.app/)
  
 
 ## Author:
-- [Toni Williams](https://toniwilliams.netlify.app)
-
-## Lessons Learned:
-I learned many things in this project. My CSS styling skills and responsive web design was put to the test. I learned the mobile first approach to CSS styling.
-
+[Toni Williams](https://toniwilliams.netlify.app)
 
 ## Feedback:
 
