@@ -1,7 +1,7 @@
 # Zen Studios 📷 
 
 
-Zen Studios is a fully responsive web application Zen Studios LLC, a photography studio based in Brooklyn, New York. In this app, users are able to learn about the company, view their portfolio, and schedule a consultation for their desired photoshoot.
+Zen Studios is a fully responsive and semantically structured web application. Zen Studios LLC, a photography studio based in Brooklyn, New York. In this app, users are able to learn about the company, view their portfolio, and schedule a consultation for their desired photoshoot.
 
 ## Preview
 ![zen](https://user-images.githubusercontent.com/100317017/180869418-a29093f0-c45f-42d4-b44b-6029f02cb01f.jpg)
