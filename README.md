@@ -1,4 +1,4 @@
-# Zen Studios 📷 
+# The Zen Studio 📷 
 
 
 Zen Studios is a fully responsive and semantically structured web application for The Zen Studio LLC. In this app, users are able to learn about The Zen Studio, view their portfolio, and schedule a consultation for their desired photoshoot.
