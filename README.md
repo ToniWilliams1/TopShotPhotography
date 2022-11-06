@@ -14,5 +14,5 @@ The Zen Studio is a fully responsive and semantically structured web application
 [Toni Williams](https://toniwilliams.netlify.app)
 
 ## Feedback:
-
+Liked the work? Please give the repository a star ⭐️
 If you have any feedback, please reach out to us at toniwilliams@outlook.com.
