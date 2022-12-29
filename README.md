@@ -1,7 +1,7 @@
-# The Zen Studio 📷 
+# Top Shot Photography
 
 
-The Zen Studio is a fully responsive and semantically structured web application. Users can learn about studio, portfolio, and schedule a photoshoot inquiry.
+Top Shot Photography is a fully responsive and semantically structured web application for a local photographer. Users can learn about studio, portfolio, and schedule a photoshoot inquiry.
 
 ## Technologies
 
