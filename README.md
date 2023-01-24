@@ -1,7 +1,7 @@
 # Top Shot Photography
 
 
-Top Shot Photography is a fully responsive and semantically structured web application for a local photographer. Users can learn about studio, portfolio, and schedule a photoshoot inquiry.
+Top Shot Photography is a fully responsive and semantically structured one-page portfolio site for a local photographer. Users can learn about studio, portfolio, and schedule a photoshoot inquiry.
 
 # Technologies
 
