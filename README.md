@@ -19,13 +19,13 @@ Top Shot Photography is a fully responsive and semantically structured one-page 
 ## Features
 
 
-• Users can quickly access the site from anywehre via QR code.
+• Users can quickly access the site from anywhere via QR code.
 
 • Users can view photo gallery.
 
 • Users can schedule a consultation with the photographer through the site.
 
-## [Demo](https://topshotphotography.netlify.app/)
+## [Demo](https://topshotphotography.onrender.com/)
  
 
 ![topshot](https://user-images.githubusercontent.com/100317017/209905759-bf834504-9ce1-44ee-a8f2-5bbadf29cabe.gif)
